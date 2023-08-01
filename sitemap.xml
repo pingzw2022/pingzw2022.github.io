@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/box/gallery/index.html</loc>
+    <loc>https://www.pingzwt.fun/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/box/animation/index.html</loc>
+    <loc>https://www.pingzwt.fun/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pingzwt.fun/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://www.pingzwt.fun/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
