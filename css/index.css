@@ -7701,13 +7701,13 @@ button#go-up:hover #percent {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content > .card-widget.card-info {
-  background-image: url(https://tuchuang.voooe.cn/images/2023/02/28/springBg.png);
+  background-image: url(https://w.wallhaven.cc/full/7p/wallhaven-7pry6o.jpg);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
 }
 [data-theme="dark"] #aside-content > .card-widget.card-info {
-  background-image: url(https://tuchuang.voooe.cn/images/2023/02/28/aurora.webp);
+  background-image: url(https://w.wallhaven.cc/full/7p/wallhaven-7pry6o.jpg);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
@@ -7721,10 +7721,10 @@ button#go-up:hover #percent {
 }
 @keyframes huxi_light {
   0% {
-    box-shadow: 0px 0px 1px 1px #9ff2d2;
+    box-shadow: 0px 0px 1px 1px #3716cc;
   }
   50% {
-    box-shadow: 0px 0px 5px 5px #9ff2d2;
+    box-shadow: 0px 0px 5px 5px #5e9b84;
   }
   100% {
     box-shadow: 0px 0px 1px 1px #9ff2d2;
@@ -7773,7 +7773,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  background: url(https://w.wallhaven.cc/full/we/wallhaven-wederx.jpg)
     no-repeat center center;
   background-size: cover;
 }
@@ -9208,7 +9208,7 @@ figure.highlight pre .deletion {
   padding: 1rem;
   position: relative;
   border-radius: 12px;
-  background-image: url(https://tuchuang.voooe.cn/images/2023/01/02/tunian.webp);
+  background-image: url(https://w.wallhaven.cc/full/vm/wallhaven-vmqzxl.png);
   background-size: cover;
   background-position: center;
 }

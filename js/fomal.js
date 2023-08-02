@@ -668,14 +668,14 @@ if (document.body.clientWidth > 992) {
   (function ($) {
     $.fn.nekoScroll = function (option) {
       var defaultSetting = {
-        top: '0',
+        top: -40 + 'px',
         scroWidth: 6 + 'px',
         z_index: 9999,
         zoom: 0.9,
         borderRadius: 5 + 'px',
-        right: 55.6 + 'px',
-        nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
-        hoverMsg: "春天啦~",
+        right: 73+ 'px',
+        nekoImg: "data:image/gif;base64,R0lGODlhLQBkALMAAOnCxtJphfHj6E0cd6GkunN8ntXa6BE1dwxKpTdvw0mq6hE1O/Ohm/7+/gAAAP///yH5BAEAAA8ALAAAAAAtAGQAAAT/8MlJq7046827/2AojmRpnmiqrmzrvnAsV05t13OtJIji+46YI/Er+hLBl8PIRCRbS2YR4dTcPkNeT0p90qJIzC2ZpW6L2vDEZvRSorvaYGCmGtNk+NS9Pv8Sc3MIA2hUSDpSPHwSDn5MgHMHkgcLlY5GVWJ2UkeAk5KWnD6ZmpeiCnWbd6QXQ6anqHVNi29asJyye1aVPES3TVQDvl1WlLa/wINErK2UC6pHiWixwcQbDsaqvo931HTMzQtaW9vd02Z0tDTOxwkGDQkN7w3w9PYKhOjqb6BpO+/xFNiLJ8+Aj3zB9vETZ4YIQIMDDRZBCC4DNl5m/hghtJGawjcD/7JpO0iI40SPWBD0G2lS2EZIH98oWHkGUIKbAQLc3HkzXYglVDD+ScCgKIMARpMGqGglVrY/geYEEEBVAINATC2iWsAO6iQDDKoKkGTAJ5ZlXHl5PRBP7Nh4Zj1ESVtpAdSb9Nzi/RaTkQ+6lf5MAuB2LIDD1jos4VFXHJqihasWTcxhcVC1fw5HpgqALxZqCDAfIcxZM9UAjShfAz3AMdScpKkWrVGnr6s6Lv8wkJQzZ1gBtM3EbDSuIZoAkoouGFA1uGoxxY3/CVBJOXOqzrPWSoWg3I5KvZfLTi1ccfTuTcDXlZT9uYXbdbyjImBgQf13BoKjvMYdPSYD9BGwgP89+sWiEHmpyIdAffYNSE+B7r1RTXxNMFgfgamNot0DqX2D2xQGhHjfg4ygtyGHEwYzAAHftEZfiA428ERqw004B4yNLUDAizGS0dhHDtBBh30GFFAAV5PouKOA9OTHCJIL1BjkAkYS0ECOSgo4j45BOPCjYk64aI8BdQi4o330cFniiYwMEOQB9hRgEj46jlgfAV3WJheHcDZQQANztgajiGoiCCQ/kwRK5KKV5FmeFaw4gNRRHCVw5H0w5kRGhBJ64YBRAQRCwJFawthalIzUSAo2Sa54ZiUhCphlX2uSYaU9ldiTpq6z/pSJA3/iOqCIVxb0jpK0lhiGA7pead//joMCSN+sNoCpyK24XgktpksSeaGMcvmC7a7O5prjPPIMSGsNVDYbY7Nphjimuj/B+y68V6KbbrIc2ovvv7gmC6y/Mo5hMLMEgjCwuw8ePIauTsqFr4M2wHtDs7b9+QmcFNdgccUNfDKcARuDAnDDHvdJzwFAStIsJScXnHKzBRyoco4AX7xyuZLUbNGWSCaJ78NQlqyOA8eWbDLGHqdJicv0GMmyGCRDzeu7OgsLp5FcFzD1e1X72bWRWIOM69ZjFxDxG2GnTbauWac5oNtqu8Gq2G6X3TSvdBtpN9p0640w333/jXfecJuNa99+v3F42veeTCXjnjJ+ZMzuUv4GI+ORxzw53ZUHjvnEhW8u+uj2us0HsGk77LrBrYth8AmzTxABADs=",
+        hoverMsg: "芜湖~",
         color: "var(--theme-color)",
         during: 500,
         blog_body: "body",
@@ -1113,7 +1113,7 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("2023-08-02 00:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
@@ -1122,13 +1122,12 @@ function createtime1() {
     `欢迎来到Fomalhaut🥝の小家!`,
     `Future is now 🍭🍭🍭`,
     `
-        
-███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
-██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-█████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    
-██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
-                                              
+    .__                                 __      _____             
+    ______ |__| ____    ______________  _  ___/  |_  _/ ____\_ __  ____  
+    \____ \|  |/    \  / ___\___   /\ \/ \/ /\   __\ \   __\  |  \/    \ 
+    |  |_> >  |   |  \/ /_/  >    /  \     /  |  |    |  | |  |  /   |  \
+    |   __/|__|___|  /\___  /_____ \  \/\_/   |__| /\ |__| |____/|___|  /
+    |__|           \//_____/      \/               \/                 \/
 `,
     "小站已经苟活",
     dnum,
@@ -1321,7 +1320,7 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '👀跑哪里去了~';
+    document.title = '👀qingtwt~';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
@@ -2789,7 +2788,7 @@ function createtime() {
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("08/09/2022 00:00:00");
+  var grt = new Date("2023-08-02 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -2984,7 +2983,7 @@ function setUniverse() {
   }
 }
 
-// 雪花开关
+// 雪花开关(初始值为none,已修改为block)
 if (localStorage.getItem("snow") == undefined) {
   localStorage.setItem("snow", "none");
 }
@@ -3174,10 +3173,12 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    
+    --default-bg: url(https://w.wallhaven.cc/full/yx/wallhaven-yx2e9g.png);
+    --darkmode-bg:url(https://w.wallhaven.cc/full/qz/wallhaven-qzlezr.jpg);
+    --mobileday-bg: url(https://w.wallhaven.cc/full/yx/wallhaven-yxe85x.jpg);
+    --mobilenight-bg: url(https://w.wallhaven.cc/full/vm/wallhaven-vmqzxl.png);
+
   }`;
 }
 // 切换背景主函数
