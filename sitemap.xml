@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pingzwt.fun/posts/undefined.html</loc>
+    
+    <lastmod>2023-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/personal/love/index.html</loc>
+    
+    <lastmod>2023-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/posts/2af2c88f.html</loc>
+    
+    <lastmod>2023-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/posts/linux.html</loc>
+    
+    <lastmod>2023-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/social/link/index.html</loc>
+    
+    <lastmod>2023-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pingzwt.fun/categories/index.html</loc>
     
     <lastmod>2023-08-02</lastmod>
@@ -38,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/box/nav/index.html</loc>
+    <loc>https://www.pingzwt.fun/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -56,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/life/movies/index.html</loc>
+    <loc>https://www.pingzwt.fun/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pingzwt.fun/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -92,16 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pingzwt.fun/site/census/index.html</loc>
+    <loc>https://www.pingzwt.fun/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://www.pingzwt.fun/social/link/index.html</loc>
+    <loc>https://www.pingzwt.fun/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -131,6 +158,15 @@
     <loc>https://www.pingzwt.fun/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/posts/node.html</loc>
+    
+    <lastmod>2022-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -164,6 +200,34 @@
 
   
   <url>
+    <loc>https://www.pingzwt.fun/tags/%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2023-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/tags/linux/</loc>
+    <lastmod>2023-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/tags/node-js/</loc>
+    <lastmod>2023-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pingzwt.fun/tags/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2023-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pingzwt.fun/tags/Markdown/</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -177,13 +241,13 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.pingzwt.fun/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.pingzwt.fun/tags/%E6%A0%B7%E5%BC%8F/</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
 </urlset>
